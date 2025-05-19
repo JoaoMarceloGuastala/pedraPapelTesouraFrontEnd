@@ -4,7 +4,6 @@ Este é um jogo simples desenvolvido em **HTML**, **CSS** e **JavaScript** para 
 ---
 
 ### 🕹 Como Jogar:
-> No momento, não é possível jogar o jogo online.
 
 - ### Primeiro método: Clonando o repositório
 
