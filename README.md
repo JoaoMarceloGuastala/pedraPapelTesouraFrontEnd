@@ -5,7 +5,15 @@ Este é um jogo simples desenvolvido em **HTML**, **CSS** e **JavaScript** para 
 
 ### 🕹 Como Jogar:
 
-- ### Primeiro método: Clonando o repositório
+- ### Primeiro método: Execute ON-LINE
+
+1. Basta clicar no meu link ao lado dos arquivos do jogo.
+
+    ```
+        https://joaomarceloguastala.github.io/pedraPapelTesouraFrontEnd/
+    ```
+
+- ### Segundo método: Clonando o repositório
 
 1. Clone este repositório Git:
     ```bash
@@ -14,13 +22,12 @@ Este é um jogo simples desenvolvido em **HTML**, **CSS** e **JavaScript** para 
 2. Abra o arquivo `index.html` em seu navegador.
     - Não é necessário baixar mais nenhum arquivo externo, basta executar o `index.html` e se divertir.
 
-- ### Segundo método: Baixando o arquivo ZIP
+- ### Terceiro método: Baixando o arquivo ZIP
 
-1. Baixe o arquivo `ZIP` deste repositório.
-2. Clique em `<> Code`, se o seu estiver em português: `<> Código`.
-3. Depois clique em `Download ZIP`, se o seu estiver em português: `Baixar ZIP`.
-4. Abra seu gerenciador de arquivos e extraia a pasta, clicando nela com o botão **direito** e depois em **Extrair aqui**.
-5. Execute o arquivo `index.html` e se divirta.
+1. Clique em `<> Code`, se o seu estiver em português: `<> Código`.
+2. Depois clique em `Download ZIP`, se o seu estiver em português: `Baixar ZIP`.
+3. Abra seu gerenciador de arquivos e extraia a pasta, clicando nela com o botão **direito** e depois em **Extrair aqui**.
+4. Execute o arquivo `index.html` e se divirta.
 
 ---
 
