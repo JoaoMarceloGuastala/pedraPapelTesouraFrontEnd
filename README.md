@@ -3,7 +3,7 @@ Este é um jogo simples desenvolvido em **HTML**, **CSS** e **JavaScript** para 
 
 ---
 
-### 🕹 Como Jogar:
+### Como Jogar:
 
 - ### Primeiro método: Execute ON-LINE
 
@@ -31,14 +31,14 @@ Este é um jogo simples desenvolvido em **HTML**, **CSS** e **JavaScript** para 
 
 ---
 
-### 🔬 O que foi utilizado:    
+### O que foi utilizado:    
 - **HTML**: Estrutura básica do site.
 - **CSS**: Estilo do site (deixa bonitinho).
 - **JavaScript**: Lógica do jogo e como ele interage com o usuário.
 
 ---
 
-### ⌨ Sobre o desenvolvimento: 
+### Sobre o desenvolvimento: 
 Posso considerar o HTML e o CSS as partes mais fáceis desse código, já que foi apenas importar as imagens e configurar as opções padrão de um site. Já o JavaScript foi bem mais difícil, pois eu sabia bem pouco sobre sua lógica, então boa parte dele foi feita com base em pesquisas realizadas no momento.
 
 ---
@@ -58,7 +58,7 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 
 ---
 
-Obrigado e até mais, terráqueos! 🖖🏻
+Obrigado e até mais, terráqueos! 
 
 
 ---
